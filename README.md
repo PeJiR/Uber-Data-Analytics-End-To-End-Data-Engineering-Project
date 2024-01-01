@@ -35,7 +35,7 @@ The goal of this project is to perform data analytics on Uber data using various
 Simply clone the repository to your local machine
 
 ```sh
-https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project
+https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git
 ```
 ## Architecture 
 <img src="architecture.jpg">
