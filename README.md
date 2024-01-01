@@ -39,7 +39,7 @@ Video Link - https://youtu.be/WpQECq5Hx9g
 
 
 
-<h3 align="center">Project Name</h1>
+<h3 align="center"># Uber Data Analytics | Modern Data Engineering GCP Project</h1>
 <a href="https://vscode.dev/github/PeJiR/Calculation-of-employee-turnover-costs" target="_blank"> <img border=0 src="https://img.shields.io/badge/Open%20in%20Visual%20Studio%20Code-blue" alt="Visual Code"></a>
 <a href="https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git" target="_blank"> <img border=0 src="https://img.shields.io/badge/python-2.7,%203.6+-blue.svg?style=flat" alt="Python version"></a>
 <a href="https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git" target="_blank"><img src="https://img.shields.io/pypi/status/ezibpy.svg?maxAge=60" alt="status"/></a>
@@ -61,9 +61,7 @@ Video Link - https://youtu.be/WpQECq5Hx9g
   </a>
 </p>
 --->
-> Project description: sdfsfsfdsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-fsfgfggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
-- dsfs
+> Project description: The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 <!---
 ### 🏠 [Homepage](pejir)
