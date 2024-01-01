@@ -32,7 +32,7 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="Uber data model.pdf">
+<img src="Uber data model.png">
 
 ## Complete Video Tutorial 
 Video Link - https://youtu.be/WpQECq5Hx9g
