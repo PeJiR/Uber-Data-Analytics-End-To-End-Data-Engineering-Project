@@ -67,20 +67,14 @@ More info about dataset can be found here:
 ## Data Model
 <img src="Uber data model.png">
 
-## Usage
+## Dashboard
 Simply navigate to the project directory and run the following command:
 
 ```sh
 pejir
 ```
 
-## Code
-
-```sh
-pejir cvxcv
-```
-## Conclusion
-This project is a ...
+ 
 
 
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
