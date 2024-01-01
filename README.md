@@ -40,6 +40,12 @@ https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project
 ## Architecture 
 <img src="architecture.jpg">
 
+Project Execution Start (Data Modelling)
+Writing Transformation Code (Python)
+Google Cloud Storage & Mage Installation
+BigQuery Data Analysis
+Building Dashboard 
+
 ## Technology Used
 - Programming Language - Python
 
