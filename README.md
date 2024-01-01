@@ -68,24 +68,11 @@ More info about dataset can be found here:
 <img src="Uber data model.png">
 
 ## Dashboard
-Simply navigate to the project directory and run the following command:
+Simply navigate to the project directory in Lookerstudio.googleand by following the Link:
 
-```sh
-pejir
-```
+https://lookerstudio.google.com/reporting/125d4e23-c28b-43a4-98c5-bfd924aaa952)
 
  
-
-
-The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
-
-
-## Complete Video Tutorial 
-Video Link - https://youtu.be/WpQECq5Hx9g
-
-
-
-
 
 ## Author
 
