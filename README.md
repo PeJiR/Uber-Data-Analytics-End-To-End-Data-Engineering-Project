@@ -1,45 +1,5 @@
-# Uber Data Analytics | Modern Data Engineering GCP Project
 
-## Introduction
-
-The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
-
-## Architecture 
-<img src="architecture.jpg">
-
-## Technology Used
-- Programming Language - Python
-
-Google Cloud Platform
-1. Google Storage
-2. Compute Instance 
-3. BigQuery
-4. Looker Studio
-
-Modern Data Pipeine Tool - https://www.mage.ai/
-
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
-
-
-## Dataset Used
-TLC Trip Record Data
-Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
-
-Here is the dataset used in the video - https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/blob/main/uber_data.csv
-
-More info about dataset can be found here:
-1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
-
-## Data Model
-<img src="Uber data model.png">
-
-## Complete Video Tutorial 
-Video Link - https://youtu.be/WpQECq5Hx9g
-
-
-
-<h3 align="center"># Uber Data Analytics | Modern Data Engineering GCP Project</h1>
+<h1 align="center">Uber Data Analytics | Modern Data Engineering GCP Project</h1>
 <a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git" target="_blank"> <img border=0 src="https://img.shields.io/badge/Open%20in%20Visual%20Studio%20Code-blue" alt="Visual Code"></a>
 <a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git" target="_blank"> <img border=0 src="https://img.shields.io/badge/python-2.7,%203.6+-blue.svg?style=flat" alt="Python version"></a>
 <a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git" target="_blank"><img src="https://img.shields.io/pypi/status/ezibpy.svg?maxAge=60" alt="status"/></a>
@@ -75,8 +35,37 @@ The goal of this project is to perform data analytics on Uber data using various
 Simply clone the repository to your local machine
 
 ```sh
-(https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
+https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project
 ```
+## Architecture 
+<img src="architecture.jpg">
+
+## Technology Used
+- Programming Language - Python
+
+Google Cloud Platform
+1. Google Storage
+2. Compute Instance 
+3. BigQuery
+4. Looker Studio
+
+Modern Data Pipeine Tool - https://www.mage.ai/
+
+Contibute to this open source project - https://github.com/mage-ai/mage-ai
+
+
+## Dataset Used
+TLC Trip Record Data
+Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
+
+Here is the dataset used in the video - https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/blob/main/uber_data.csv
+
+More info about dataset can be found here:
+1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+## Data Model
+<img src="Uber data model.png">
 
 ## Usage
 Simply navigate to the project directory and run the following command:
@@ -92,6 +81,15 @@ pejir cvxcv
 ```
 ## Conclusion
 This project is a ...
+
+
+The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+
+
+## Complete Video Tutorial 
+Video Link - https://youtu.be/WpQECq5Hx9g
+
+
 
 
 
