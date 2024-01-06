@@ -45,7 +45,7 @@ https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project
 5. Building Dashboard 
 
 ## Technology Used
-- Programming Language - Python
+Programming Language - Python
 
 Google Cloud Platform
 1. Google Storage
