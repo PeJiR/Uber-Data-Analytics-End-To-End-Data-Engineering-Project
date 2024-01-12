@@ -74,6 +74,8 @@ More info about dataset can be found here:
 ## Dashboard
 Simply navigate to the project directory in Lookerstudio.googleand by following the Link:
 
+<img src="lookerstudio_uber.png">
+
 https://lookerstudio.google.com/reporting/125d4e23-c28b-43a4-98c5-bfd924aaa952
 
  
