@@ -73,8 +73,8 @@ More info about dataset can be found here:
 
 ## Dashboard
  
-
-<a href="https://lookerstudio.google.com/reporting/125d4e23-c28b-43a4-98c5-bfd924aaa952" <img src="lookerstudio_uber.png">
+<a href="https://lookerstudio.google.com/reporting/125d4e23-c28b-43a4-98c5-bfd924aaa952">
+<img src="lookerstudio_uber.png"> alt="dashboard uber" target="_blanck"></a>
 
 
 
