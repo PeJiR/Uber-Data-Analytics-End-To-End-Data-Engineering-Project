@@ -72,10 +72,9 @@ More info about dataset can be found here:
 <img src="Uber data model.png">
 
 ## Dashboard
-Simply navigate to the project directory in Lookerstudio.googleand by following the Link:
-https://lookerstudio.google.com/reporting/125d4e23-c28b-43a4-98c5-bfd924aaa952
+ 
 
-<img src="lookerstudio_uber.png">
+<a href="https://lookerstudio.google.com/reporting/125d4e23-c28b-43a4-98c5-bfd924aaa952" <img src="lookerstudio_uber.png">
 
 
 
