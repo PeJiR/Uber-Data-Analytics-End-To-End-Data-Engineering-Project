@@ -48,10 +48,11 @@ https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project
 Programming Language - Python
 
 Google Cloud Platform
-1. Google Storage
+1. Google Storage  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="css3" width="40" height="40"/> 
 2. Compute Instance 
 3. BigQuery
 4. Looker Studio
+5. Debian <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
