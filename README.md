@@ -44,7 +44,7 @@ https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project
 4. BigQuery Data Analysis
 5. Building Dashboard 
 
-## Technology Used
+## Technology Used ✨
 Programming Language - Python
 
 Google Cloud Platform
@@ -52,7 +52,11 @@ Google Cloud Platform
 2. Compute Instance 
 3. BigQuery
 4. Looker Studio
-5. Debian <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+5. Debian <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
+6. JavaScript <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/>
+7. Python  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/>
+8. VSCode  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
+ 
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
